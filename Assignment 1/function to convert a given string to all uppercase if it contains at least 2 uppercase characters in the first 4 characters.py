@@ -8,8 +8,5 @@ def func(str):
         return str.upper()
     return str
         
-
-
-
 print(func("hello"))
 print(func("heLLo"))
